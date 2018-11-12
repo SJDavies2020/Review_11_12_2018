@@ -1,0 +1,9 @@
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\bin\Debug\Review_1.exe.config
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\bin\Debug\Review_1.exe
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\bin\Debug\Review_1.pdb
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\obj\Debug\Review_1.csprojResolveAssemblyReference.cache
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\obj\Debug\Review_1.frmReview.resources
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\obj\Debug\Review_1.Properties.Resources.resources
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\obj\Debug\Review_1.csproj.GenerateResource.Cache
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\obj\Debug\Review_1.exe
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Review_1\Review_1\obj\Debug\Review_1.pdb
